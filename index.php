@@ -15,7 +15,7 @@
         </div>
         <div class="d-flex flex-row justify-content-center py-3 blog-img">
 
-            <img src="https://ibiene.com/wp-content/uploads/2021/03/Bondora.png" alt="">
+            <img class="img-fluid" src="https://ibiene.com/wp-content/uploads/2021/03/Bondora.png" alt="">
         </div>
         <div class="d-flex flex-row py-3">
             <p class="text-justify">
